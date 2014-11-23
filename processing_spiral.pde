@@ -2,6 +2,8 @@
  * An animated optical illusion of concentric circles that appear as a set of spirals.
  *
  * Press space to pause/resume the anmiation.
+ *
+ * Author: Phil Chan
  */
 
 /**
